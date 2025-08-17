@@ -7,5 +7,3 @@ create table users
 	init_date date null,
 	email varchar(100) null
 )
-
-select * from users

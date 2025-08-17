@@ -1,0 +1,1 @@
+SELECT top 3 * FROM users

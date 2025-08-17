@@ -1,0 +1,1 @@
+SELECT distinct age FROM users where age = 15 order by age
