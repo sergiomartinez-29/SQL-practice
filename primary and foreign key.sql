@@ -3,3 +3,5 @@ create table dni(
 	dni_number int not null unique,
 	userId int foreign key references users(userId)
 )
+
+-- RELACIÓN DE 1 A 1
