@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE email like '%@gmail.com' and not name_user = 'Carlos'
